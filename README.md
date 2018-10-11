@@ -1,1 +1,1 @@
-"# c3s_sm-test-data" 
+Test data for the c3s_sm package.
